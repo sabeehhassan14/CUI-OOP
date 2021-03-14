@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author HP
  */
-public class JavaLab3Time {
+public class Runner {
 
     /**
      * @param args the command line arguments
