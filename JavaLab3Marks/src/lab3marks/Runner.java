@@ -2,7 +2,7 @@ package lab3marks;
 
 import java.util.Scanner;
 
-public class JavaLab3Marks { 
+public class Runner { 
     public static void main(String[] args) {
         Scanner userIn = new Scanner(System.in);
         int query;
